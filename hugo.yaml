@@ -1,17 +1,22 @@
-baseURL: 'https://seu-dominio.com/'
+baseURL: 'https://felipefm.github.io/observatorio/'
 languageCode: 'pt-br'
 title: 'O Observatório'
 theme: 'PaperMod'
 
 params:
-  defaultTheme: auto # Alterna entre claro/escuro com base no sistema do leitor
+  defaultTheme: auto
   ShowReadingTime: true
-  ShowShareButtons: false
+  ShowShareButtons: true
   comments: true
-  
+  disableSpecial1stPost: true
+
 menu:
   main:
     - identifier: archives
-      name: Arquivo
+      name: "Arquivo"
       url: /archives/
       weight: 10
+    - identifier: sobre
+      name: "Sobre"
+      url: /sobre/
+      weight: 20
