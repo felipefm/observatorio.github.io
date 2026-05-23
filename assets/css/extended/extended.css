@@ -1,53 +1,20 @@
-/* --- Modernização da Página de Arquivos --- */
-
-/* Estilização dos blocos de meses e anos */
-.archive-year {
-    border-bottom: 2px solid var(--border);
-    padding-bottom: 10px;
-    margin-top: 2.5rem;
-}
-
-/* Transforma o número elevado em uma tag moderna */
+/* Limpa os números elevados, deixando-os discretos e com uma cor mais suave */
 .archive-year sup, .archive-month sup {
-    font-size: 0.75rem;
-    position: relative;
-    top: -2px;
-    left: 6px;
-    background: var(--entry);
-    padding: 2px 6px;
-    border-radius: 4px;
+    font-size: 0.8rem;
     color: var(--secondary);
-    font-weight: normal;
+    font-weight: 300;
+    margin-left: 6px;
 }
 
-/* Espaçamento e estrutura da lista de posts */
-.archive-month {
-    margin-top: 1.5rem;
-}
-
+/* Dá apenas um respiro elegante entre as publicações */
 .archive-entry {
-    position: relative;
-    padding-left: 15px;
-    margin-bottom: 1.2rem;
-    border-left: 2px solid var(--border); /* Cria a linha vertical do tempo */
-    transition: all 0.2s ease;
+    margin-bottom: 1.5rem;
+    padding-left: 5px;
 }
 
-/* Efeito ao passar o mouse em cada item da lista */
-.archive-entry:hover {
-    border-left-color: var(--primary); /* A linha acende na cor do tema */
-    padding-left: 18px;
+/* Faz o título do texto ganhar um sublinhado sutil quando você passa o mouse */
+.archive-name a:hover {
+    color: var(--primary);
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
 }
-
-.archive-name {
-    font-size: 1.15rem;
-    font-weight: 500;
-    line-height: 1.4;
-}
-
-.archive-meta {
-    font-size: 0.85rem;
-    color: var(--secondary);
-    margin-top: 3px;
-}
-
