@@ -1,6 +1,6 @@
 ---
 title: A Melodia da Chuva e o Peso do Silêncio
-date: A Melodia da Chuva e o Peso do Silêncio
+date: 2026-05-23T12:38:00-03:00
 tags:
   - "#papelebrasa"
   - escritaanalógica
