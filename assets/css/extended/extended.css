@@ -1,24 +1,29 @@
-/* 1. Remove os números elevados (limpeza visual imediata) */
-.archive-year sup, .archive-month sup {
-    display: none;
-}
-
-/* 2. O Ano vira um divisor forte e elegante, estilo revista */
+/* 1. O Ano: Tamanho elegante e equilibrado */
 .archive-year {
-    font-size: 2.8rem;
-    font-weight: 800;
+    font-size: 2rem; /* Reduzido de 2.8rem para ficar mais harmonioso */
+    font-weight: 700;
     border-bottom: 2px solid var(--border);
     padding-bottom: 0.5rem;
-    margin-top: 4rem;
+    margin-top: 3rem;
     margin-bottom: 2rem;
-    letter-spacing: -0.04em;
+    letter-spacing: -0.02em;
 }
 
-/* 3. Os meses ficam sutis e refinados */
+/* 2. Contadores de publicação: Retornam de forma sutil, sem caixas */
+.archive-year sup, .archive-month sup {
+    display: inline-block;
+    font-size: 0.85rem;
+    font-weight: 400;
+    color: var(--secondary);
+    opacity: 0.7; /* Fica um cinza suave e elegante */
+    margin-left: 6px;
+    top: -0.5em; /* Posição clássica de número elevado */
+}
+
+/* 3. Os meses ficam refinados */
 .archive-month-header {
     font-size: 1.5rem;
     color: var(--secondary);
-    opacity: 0.6;
     margin-bottom: 1.5rem;
 }
 
@@ -51,8 +56,7 @@
     opacity: 0.8;
 }
 
-/* 7. O toque de mestre: Ao passar o mouse, o texto desliza suavemente para a direita */
+/* 7. Efeito sutil: Ao passar o mouse, o texto desliza para a direita */
 .archive-entry:hover {
     transform: translateX(12px);
-}
 }
