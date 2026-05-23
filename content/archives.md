@@ -1,5 +1,5 @@
 ---
-title: "Arquivo"
-layout: "archives"
-summary: "archives"
+title: Arquivo
+layout: archives
+summary: archives
 ---
