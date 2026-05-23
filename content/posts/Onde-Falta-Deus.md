@@ -1,15 +1,12 @@
 ---
-title: "Onde Falta Deus"
+title: Onde Falta Deus
 date: 2026-05-23T15:00:00-03:00
 LocalPublicado: Youtube
 tags:
+  - Deus
+  - Crônica
 draft: false
 ---
-Era fim de tarde quando o movimento começava a diminuir nas ruas de Jerusalém. O sol, já cansado...
-
-
-# Onde Falta Deus
-
 Era fim de tarde quando o movimento começava a diminuir nas ruas de Jerusalém. O sol, já cansado, se inclinava lentamente sobre as pedras antigas, aquelas mesmas que carregam séculos de fé, conflitos e orações silenciosas. Entre turistas apressados e moradores habituados ao sagrado cotidiano, uma freira caminhava com passos tranquilos, como quem não disputa espaço com o mundo, mas apenas o atravessa. Seu hábito simples contrastava com o peso histórico do lugar. 
 
 Ela não carregava nada além de uma pequena bolsa e uma serenidade difícil de explicar — dessas que não se compram, apenas se cultivam com o tempo e com Deus. Tudo aconteceu rápido. Um homem surgiu correndo, tomado por algo que não se via, mas se sentia. Não era pressa. Era fúria. Sem aviso, sem palavra, sem motivo aparente — ao menos não um que justificasse — ele a atingiu pelas costas. O corpo frágil foi lançado ao chão como se não tivesse história, como se não tivesse alma. Alguns passos adiante, o silêncio que antes parecia reverente se transformou em choque. A freira caiu. 

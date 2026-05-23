@@ -9,17 +9,6 @@ params:
   ShowShareButtons: false
   comments: true
   
-  # Suas credenciais do Giscus
-  comments_config:
-    giscus:
-      repo: 'felipefm/observatorio-comentarios'
-      repoId: 'R_kgDOSl1rPA'
-      category: 'Announcements'
-      categoryId: 'DIC_kwDOSl1rPM4C9rvJ'
-      mapping: 'pathname'
-      theme: 'preferred_color_scheme'
-      lang: 'pt'
-
 menu:
   main:
     - identifier: archives
