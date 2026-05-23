@@ -1,5 +1,5 @@
 ---
-DataPublic: 2026-05-23T12:38:00-03:00
+date: 2026-05-23T12:38:00-03:00
 tags:
   - Barroco
   - PoesiaBrasileira
@@ -10,8 +10,6 @@ tags:
 LocalPublicado:
 title: Tenho Sono
 ---
-# Tenho Sono
-
 O sono aos olhos me assalta,
 mas quero a vigília manter,
 urgente é o dever.
