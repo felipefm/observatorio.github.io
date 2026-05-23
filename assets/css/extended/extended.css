@@ -1,62 +1,45 @@
-/* 1. O Ano: Tamanho elegante e equilibrado */
-.archive-year {
-    font-size: 2rem; /* Reduzido de 2.8rem para ficar mais harmonioso */
-    font-weight: 700;
-    border-bottom: 2px solid var(--border);
-    padding-bottom: 0.5rem;
-    margin-top: 3rem;
-    margin-bottom: 2rem;
-    letter-spacing: -0.02em;
-}
+/* --- Modernização da Home (Estilo Editorial sem caixas) --- */
 
-/* 2. Contadores de publicação: Retornam de forma sutil, sem caixas */
-.archive-year sup, .archive-month sup {
-    display: inline-block;
-    font-size: 0.85rem;
-    font-weight: 400;
-    color: var(--secondary);
-    opacity: 0.7; /* Fica um cinza suave e elegante */
-    margin-left: 6px;
-    top: -0.5em; /* Posição clássica de número elevado */
-}
-
-/* 3. Os meses ficam refinados */
-.archive-month-header {
-    font-size: 1.5rem;
-    color: var(--secondary);
-    margin-bottom: 1.5rem;
-}
-
-/* 4. As publicações ganham espaço e uma separação limpa */
-.archive-entry {
-    padding: 1.2rem 0;
+/* Remove as caixas de fundo e adiciona uma linha divisória clássica */
+.post-entry {
+    background: transparent;
+    border-radius: 0;
+    box-shadow: none;
+    border: none;
     border-bottom: 1px solid var(--border);
+    padding: 2rem 0; /* Muito espaço vertical para o texto respirar */
+    margin: 0;
     transition: transform 0.3s cubic-bezier(0.2, 0.8, 0.2, 1);
 }
 
-/* Remove a linha do último texto para não sobrar traço à toa */
-.archive-entry:last-child {
+/* Remove a linha do último post da página inicial */
+.post-entry:last-of-type {
     border-bottom: none;
 }
 
-/* 5. Títulos mais robustos */
-.archive-name {
-    font-size: 1.35rem;
-    font-weight: 600;
-    margin-bottom: 0.4rem;
+/* Mantém o mesmo efeito deslizante elegante do Arquivo */
+.post-entry:hover {
+    transform: translateX(12px);
+    background: transparent;
 }
 
-/* 6. Datas e tempo de leitura ganham um toque analógico/máquina de escrever */
-.archive-meta {
-    font-size: 0.85rem;
+/* Evita o efeito padrão do tema de "afundar" a caixa ao clicar */
+.post-entry:active {
+    transform: translateX(12px);
+}
+
+/* Ajusta as fontes do resumo e da data para combinar com o Arquivo */
+.entry-content {
     color: var(--secondary);
+    font-size: 1rem;
+    line-height: 1.6;
+    margin-bottom: 1rem;
+}
+
+.entry-footer {
     font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
+    font-size: 0.85rem;
     text-transform: uppercase;
     letter-spacing: 0.05em;
     opacity: 0.8;
-}
-
-/* 7. Efeito sutil: Ao passar o mouse, o texto desliza para a direita */
-.archive-entry:hover {
-    transform: translateX(12px);
 }
