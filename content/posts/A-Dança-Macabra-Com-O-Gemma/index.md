@@ -18,7 +18,7 @@ Ah, o fascínio da inteligência artificial local. A promessa de ter um gênio c
 Passei quatro horas tentando fazer o Gemma 3 – uma versão "promissora" do modelo de linguagem – render algo minimamente útil no LM Studio. Quatro horas! Tempo suficiente para aprender latim, construir uma casa de passarinho ou, sei lá, finalmente organizar aquela gaveta de meias esquecidas. Mas não, eu estava ali, encarando a tela, tentando domar um algoritmo teimoso.
 
 
-```
+```text
 --------------------------------
 VERSÃO 1
 --------------------------------
@@ -53,7 +53,7 @@ Gabarito Real: No final absoluto da sua resposta, crie uma seção chamada "Gaba
 Comecei com o "System Prompt" versão 1. Uma obra-prima de instruções detalhadas, regras e restrições, projetada para transformar o Gemma em um professor psicopedagogo gamificado para alunos do 6º ano. Parecia perfeito no papel (literalmente). Na prática...
 
 
-```
+```text
 ----------------------------------
 versão 2
 ----------------------------------
@@ -98,7 +98,7 @@ A frustração aumentava a cada iteração. A cada "alucinação" do modelo, a c
 Mas a teimosia é uma virtude (ou um defeito, dependendo do ponto de vista). Continuei ajustando o prompt, refinando as regras, adicionando "travas anti-alucinação" e "filtros de simplicidade". Foi como tentar esculpir Davi com um palito de dente: lento, doloroso e com resultados incertos.
 
 
-```
+```text
 Atue como um Professor experiente em psicopedagogia e criação de materiais didáticos gamificados e engajadores. Sua comunicação deve ser DIRETAMENTE com o aluno, em tom lúdico, direto e acessível, como se fosse um guia em uma missão.
 
 Público-Alvo:

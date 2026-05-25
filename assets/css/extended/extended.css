@@ -109,10 +109,12 @@
    3. AJUSTE DOS BLOCOS DE CÓDIGO E PROMPTS
    ========================================= */
 
-/* Aumenta a fonte dos blocos grandes de código (```) */
-.post-content pre code {
-    font-size: 0.95rem !important; /* Tamanho confortável e legível */
-    line-height: 1.6;
+/* Força qualquer bloco de código do PaperMod a ter um tamanho decente */
+.post-content pre code,
+.post-content .highlight pre,
+.post-content .highlight code {
+    font-size: 0.95rem !important;
+    line-height: 1.6 !important;
     font-family: ui-monospace, SFMono-Regular, "SF Mono", Consolas, monospace;
 }
 
