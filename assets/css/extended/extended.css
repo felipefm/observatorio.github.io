@@ -105,3 +105,19 @@
     letter-spacing: 0.05em;
     opacity: 0.8;
 }
+/* =========================================
+   3. AJUSTE DOS BLOCOS DE CÓDIGO E PROMPTS
+   ========================================= */
+
+/* Aumenta a fonte dos blocos grandes de código (```) */
+.post-content pre code {
+    font-size: 0.95rem !important; /* Tamanho confortável e legível */
+    line-height: 1.6;
+    font-family: ui-monospace, SFMono-Regular, "SF Mono", Consolas, monospace;
+}
+
+/* Ajusta as marcações de código simples jogadas no meio do texto normal */
+.post-content code {
+    font-size: 0.9rem;
+    border-radius: 4px;
+}

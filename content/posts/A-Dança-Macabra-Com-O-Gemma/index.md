@@ -11,7 +11,7 @@ LocalPublicado:
 title: "A Dança Macabra com o Gemma: Quatro Horas para um Resultado Mediano (e a Sanidade em Jogo)"
 draft: false
 ---
-![[tela- do-LM-Studio.png]]
+![](tela-do-LM-Studio.png)
 
 Ah, o fascínio da inteligência artificial local. A promessa de ter um gênio criativo à sua disposição, rodando na máquina que você mesmo montou. A realidade? Bem... a realidade é um pouco mais complexa.
 
@@ -91,7 +91,7 @@ Coluna 2:
 
 A primeira versão cuspia textos pomposos e cheios de termos que nem o próprio aluno entenderia. A segunda, um pouco melhor, mas ainda com a tendência de inventar coisas ou se perder em divagações filosóficas desnecessárias. Era como tentar ensinar física quântica para um hamster: a informação simplesmente não entrava.
 
-![[meme.png]]
+![](meme.png)
 
 A frustração aumentava a cada iteração. A cada "alucinação" do modelo, a cada resposta que desafiava a lógica básica, eu sentia minha sanidade escorrer pelos dedos. Comecei a questionar minhas escolhas de vida. Será que eu deveria ter sido veterinário? Ou padeiro? Qualquer coisa que não envolvesse lutar contra um código rebelde.
 
