@@ -41,7 +41,7 @@ Este prompt inicial, embora simples e generalista, serviu como ponto de partida 
 ## Google
 A big tech do jogo.
 
-Aqui esta o reusltado: [Pesquisa Google](.../pesquia-google/)
+Aqui esta o reusltado: [Pesquisa Google](/posts/2026/05/30/pesquia-google/)
 
 Entre as ferramentas testadas, esta se destacou por apresentar um tempo de resposta mais longo. Contudo, a qualidade dos resultados obtidos justificou a espera, oferecendo um material valioso para pesquisa.
 
