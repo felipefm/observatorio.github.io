@@ -1,7 +1,9 @@
 ---
 title: EAD Pesquisa Realizada Contexto Deep Research ChatGPT
 date: 2026-05-30T10:55:00-03:00
-hidden: true
+_build: |-
+  _build:
+    list: never
 ---
 O tema da Educação a Distância (EaD) é bastante debatido porque envolve questões de acesso à educação, qualidade do ensino, tecnologia e autonomia dos estudantes. A literatura acadêmica e as reportagens mostram que o EaD trouxe avanços importantes, mas também enfrenta desafios significativos. ([Conjecturas](https://conjecturas.org/index.php/edicoes/article/view/1887?utm_source=chatgpt.com "Educação a distância no ensino superior: as vantagens e desvantagens de um atual processo de ensino e aprendizagem | Conjecturas"))
 

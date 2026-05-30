@@ -1,7 +1,8 @@
 ---
 title: EAD Pesquisa Realizada Contexto GOOGLE
 date: 2026-05-30T10:55:00-03:00
-hidden: true
+_build:
+  list: never
 ---
 # O Ecossistema da Educação a Distância no Brasil: Análise de Desempenho, Tensões de Mercado e as Novas Diretrizes Regulatórias (2025-2027)
 
