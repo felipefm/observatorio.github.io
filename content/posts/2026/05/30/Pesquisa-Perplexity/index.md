@@ -1,3 +1,8 @@
+---
+title: EAD Pesquisa Realizada Contexto Perplexity
+date: 2026-05-30T10:55:00-03:00
+hidden: true
+---
 A Educação a Distância (EAD) tem **flexibilidade de horários**, **custos menores** e **acesso democratizado** como principais vantagens, mas enfrenta desafios como **falta de interação presencial**, **dependência de tecnologia** e **exigência de alta autodisciplina** como desvantagens.
 
 

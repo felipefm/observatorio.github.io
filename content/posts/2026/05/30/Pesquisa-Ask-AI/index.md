@@ -1,3 +1,8 @@
+---
+title: EAD Pesquisa Realizada Contexto Ask AI
+date: 2026-05-30T10:55:00-03:00
+hidden: true
+---
 O Ensino a Distância (EaD) consolidou-se como uma modalidade educacional transformadora, caracterizada pela mediação tecnológica no processo de ensino-aprendizagem. Diferente do modelo presencial tradicional, o EaD rompe as barreiras geográficas e temporais, permitindo que o estudante gerencie seu próprio ritmo de estudo.[[3]](https://iask.ai/q/vantagens-e-desvantagens-do-ensino-a-dist-ncia-EAD-artigos-pesquisas-sdv347o#fn:3 "see footnote") A literatura acadêmica e técnica destaca que essa modalidade exige uma mudança de paradigma, onde o aluno deixa de ser um receptor passivo para se tornar o protagonista de sua jornada acadêmica, demandando competências como autodisciplina, organização e gestão do tempo.[[1]](https://iask.ai/q/vantagens-e-desvantagens-do-ensino-a-dist-ncia-EAD-artigos-pesquisas-sdv347o#fn:1 "see footnote") [[2]](https://iask.ai/q/vantagens-e-desvantagens-do-ensino-a-dist-ncia-EAD-artigos-pesquisas-sdv347o#fn:2 "see footnote")
 
 According to www.iAsk.Ai - Ask AI:
